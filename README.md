@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-#live link:https://65c6251cfef16c08fd5b17ef--shiny-sfogliatella-d93cab.netlify.app/](https://wheatherappvaish.netlify.app/)
+#live link:[https://65c6251cfef16c08fd5b17ef--shiny-sfogliatella-d93cab.netlify.app/](https://wheatherappvaish.netlify.app/)](https://wheatherappvaish.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
